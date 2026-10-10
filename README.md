@@ -23,3 +23,5 @@ Or run the helper script:
 ## Project structure
 - `app/main.go`: shell implementation
 - `go.mod`: Go module definition
+
+- ABCDEFGHIJKLMNOPQRSTUVWXYZ
